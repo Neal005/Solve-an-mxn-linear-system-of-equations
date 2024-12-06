@@ -5,3 +5,4 @@ Niên luận cơ sở ngành Kỹ Thuật Phần Mềm CTU
 *Một số lưu ý:
   - Đồ án được lập trình trên NetBeans và sử dụng Java Swing cho giao diện
   - File nhập ma trận có định dạng là .mt
+  - Hạn chế: Ứng dụng chưa sử dụng đối tượng số phân số nên còn sai số khi giái các ma trận lớn
